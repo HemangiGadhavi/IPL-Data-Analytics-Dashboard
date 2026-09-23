@@ -42,7 +42,7 @@ ipl_analytics/
 
 ## 🗂️ Dataset
 
-**IPL.csv** — ball-by-ball records for every IPL match from 2008 to 2025.
+**IPL.csv** — https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025
 
 | Attribute | Detail |
 |-----------|--------|
