@@ -34,7 +34,7 @@ ipl_analytics/
 ├── requirements.txt                 ← Python dependencies
 ├── IPL_Analytics_Presentation.pptx ← 10-slide project presentation
 ├── data/
-│   └── IPL.csv                      ← ball-by-ball dataset (place here)
+│   └── IPL.csv                      ← https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025
 └── README.md
 ```
 
